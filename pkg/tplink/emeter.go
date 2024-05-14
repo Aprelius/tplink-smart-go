@@ -2,7 +2,8 @@ package tplink
 
 import (
     "encoding/json"
-    "github.com/Aprelius/tplink-smart-go/v1/pkg/devices"
+
+    "github.com/Aralocke/tplink-smart-go/v1/pkg/devices"
 )
 
 type EMeter struct {

@@ -1,4 +1,4 @@
-GOVERSION=1.17
+GOVERSION=1.21
 GOCMD=go${GOVERSION}
 
 compile: clean build
